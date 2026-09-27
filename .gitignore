@@ -1,0 +1,6 @@
+# Generated build folders
+Debug/
+Release/
+
+# Eclipse and STM32CubeIDE workspace data
+.metadata/
